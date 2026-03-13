@@ -5,7 +5,6 @@ This project presents an interactive Customer Purchase Behavior & Shipping Analy
 
 It helps businesses understand sales performance, customer demographics, and payment preferences through interactive visualizations and filters.
 
----
 
 ## KPIs
 - Total Revenue
@@ -14,7 +13,6 @@ It helps businesses understand sales performance, customer demographics, and pay
 - Clothing Revenue
 - Footwear Revenue
 
----
 
 ## Visualizations
 - Purchase Value by Product – Bar chart showing top-selling products  
@@ -24,7 +22,6 @@ It helps businesses understand sales performance, customer demographics, and pay
 - Customer Count by Gender – Donut chart showing gender distribution  
 - Revenue Category by Age Group – Column chart showing revenue contribution by age group  
 
----
 
 ## Features
 - Interactive Power BI dashboard design  
@@ -32,13 +29,11 @@ It helps businesses understand sales performance, customer demographics, and pay
 - Clear visualization of customer behavior and sales trends  
 - Geographic analysis of purchase value by state  
 
----
 
 ## Tools Used
 - Power BI  
 - Excel Dataset  
 
----
 
 ## Purpose
 The purpose of this dashboard is to analyze customer purchasing behavior and sales performance. It helps businesses understand product demand, customer demographics, and regional sales patterns to support data-driven decision making.

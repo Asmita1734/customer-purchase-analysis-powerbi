@@ -39,7 +39,6 @@ It helps businesses understand sales performance, customer demographics, and pay
 The purpose of this dashboard is to analyze customer purchasing behavior and sales performance. It helps businesses understand product demand, customer demographics, and regional sales patterns to support data-driven decision making.
 
 
-## Dashboard Snapshot
 
 
 
